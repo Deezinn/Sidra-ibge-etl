@@ -1,9 +1,6 @@
-APISABATE = [
-    'https://apisidra.ibge.gov.br/values/t/1092/n1/all/v/151/p/199701/c12716/115233/c18/992/c12529/111737'
-]
+APISABATE = {
+    '1092': 'https://apisidra.ibge.gov.br/values/t/1092/n1/all/n3/all/v/all/p/first%201/c12716/all/c18/all/c12529/all/d/v1000151%202,v1000284%202,v1000285%202',
+    '1093': 'https://apisidra.ibge.gov.br/values/t/1093/n1/all/n3/all/v/all/p/first%201/c12716/all/c12529/all/d/v1000151%202,v1000284%202,v1000285%202',
+    '1094': 'https://apisidra.ibge.gov.br/values/t/1094/n1/all/n3/all/v/all/p/first%201/c12716/all/c12529/all/d/v1000151%202,v1000284%202,v1000285%202',
+}
 
-# {
-#     '1092': ,
-#     # '1093': '',
-#     # '1094': ''
-# }
