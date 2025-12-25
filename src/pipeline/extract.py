@@ -3,12 +3,19 @@ from src.domain.constants import APISABATE
 from datetime import datetime
 import json
 import pandas as pd
+
+
 class Extract():
     def __init__(self, api: dict) -> None:
         self.__api = api
     
-    def extract_quarter_api(self) -> dict:
-        yearBase = 2025 # menor valor 1997
+    def get_data(self):
+        pass
+    
+    
+    @staticmethod
+    def _extract_quarter_api(link) -> dict:
+        yearBase = 2025 # menor valor 2000, há apis com o inicio em 1997 ou em 1987, logo, decidi padronizar 2000
         quarter = 1
         
         now = datetime.now()
@@ -17,7 +24,7 @@ class Extract():
         content_serie = {}
         content_temp = []
     
-        for serie, api in self.__api.items():
+        for serie, api in link.items():
             year = yearBase
             quarter = 1
             
@@ -36,7 +43,6 @@ class Extract():
                     content_temp.extend(r.json())
                 else:
                     r.raise_for_status()
-                    break
                 
                 if year_and_quarter_base == year_and_quarter:
                     break
@@ -50,6 +56,6 @@ class Extract():
             content_serie[serie] = content_temp
         return content_serie    
     
-    def extract_month_api(self):
+    @staticmethod
+    def _extract_month_api():
         pass
-    
