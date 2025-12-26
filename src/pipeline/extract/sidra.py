@@ -1,49 +1,11 @@
 import requests
-from src.domain.constants.links.abate import APISABATE
-from src.domain.constants.links.ipca import  APISINPC
+
 from datetime import datetime
-import json
-import pandas as pd
 
 
-class SidraExtractor():
-    def __init__(self) -> None:
-        pass
-    
-    def run(self) -> list:
-    
-        results:list = []
-        
-        #temporário
-        apis_list:list = [APISINPC, APISABATE]
-        
-        for apis in apis_list:
-            for serie, api in apis.items():
-                results.append(self._orchestrator_extract(api, serie))
-                            
-        return results
-    
-    def _orchestrator_extract(self, api, serie) -> dict:
-        
-        if not api:
-            pass
-        
-        if not isinstance(api, dict):
-            pass 
-        
-        content:dict = {}
-        
-        match api['period']:
-            case 'monthly':
-                content[serie] = self._extract_monthly(api['url'])
-            case 'quarterly':
-                content[serie] = self._extract_quarterly(api['url'])
-            case _:
-                raise ValueError('periodo errado')
-        return content
-                
-    @staticmethod
-    def _extract_quarterly(link: str) -> list:
+class Extract():
+
+    def run_quarterly(self, link: str) -> list:
         
         if not isinstance(link, str):
             pass
@@ -87,9 +49,11 @@ class SidraExtractor():
             
         return data
             
-            
-    @staticmethod
-    def _extract_monthly(link: str) -> str:
+    def run_monthly(self, link: str) -> str:
+        
+        if not isinstance(list, str):
+            pass
+        
         if not link:
             ValueError('')
             
@@ -98,5 +62,15 @@ class SidraExtractor():
         
         return response.json()
 
-s = SidraExtractor()
-s.run()
+    def run_semester(self, link: str) -> dict:
+        
+        if not isinstance(list, str):
+            pass
+        
+        if not link:
+            ValueError('')
+            
+        response = requests.get(link, timeout=30)
+        response.raise_for_status()
+        
+        return response.json()
