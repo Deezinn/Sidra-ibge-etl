@@ -74,3 +74,27 @@ class Extract():
         response.raise_for_status()
         
         return response.json()
+    
+    def run_one_monthly(self, link):
+        if not isinstance(list, str):
+            pass
+        
+        if not link:
+            ValueError('')
+            
+        response = requests.get(link, timeout=30)
+        response.raise_for_status()
+        
+        return response.json()
+    
+    def run_three_monthly(self, link):
+        if not isinstance(list, str):
+            pass
+        
+        if not link:
+            ValueError('')
+            
+        response = requests.get(link, timeout=30)
+        response.raise_for_status()
+        
+        return response.json()

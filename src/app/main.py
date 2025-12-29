@@ -1,28 +1,41 @@
-from src.pipeline import Extract
+from pipeline import Extract
 
-from src.domain.constants.links.ipca import  APISINPC
-
-import pandas as pd 
+from domain.constants.links import APIS
 
 class Main:
     def __init__(self, extract: Extract):
         self.__extract: Extract = extract
+        
         self.__dispatcher: dict = {
+            'quarterly': self.__extract.run_quarterly,
             'monthly': self.__extract.run_monthly,
-            'quarterly': self.__extract.run_quarterly
+            'one-monthly': self.__extract.run_one_monthly,
+            'three-monthly': self.__extract.run_three_monthly,
+            'semester': self.__extract.run_semester,
         }
     
-    def run(self, apis: list[dict]):
+    def run(self, apis: dict):
+        
+        if not apis and not isinstance(apis,dict):
+            raise ValueError(f'')
+            
         results:list = []
         
-        for api in apis:
-            for serie, meta in api.items():
-                period = meta['period']
-                url = meta['url']
-                
-                data:dict = self.__dispatcher[period](url)
-                results.append({serie: data})
+        for serie, meta in apis.items():
+            
+            if not meta['url'] :
+                raise ValueError(f'{serie} url empty.')
+            elif not meta['period']:
+                raise ValueError(f'{serie} period empty.')
+            
+            
+            period = meta['period']
+            url = meta['url']
+            
+            data:dict = self.__dispatcher[period](url)
+            print(f'Série {serie} inicializada a etl')
+            results.append({serie: data})
                 
 if __name__ == '__main__':
     m = Main(Extract())
-    m.run([APISINPC])
+    m.run(apis=APIS)

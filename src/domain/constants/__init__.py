@@ -1,1 +1,1 @@
-from .links.abate import APISABATE
+from .links import APIS
