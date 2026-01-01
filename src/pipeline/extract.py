@@ -1,7 +1,7 @@
-import requests
-
 from datetime import datetime
 
+import requests
+from requests.exceptions import InvalidJSONError
 
 class Extract():
 
@@ -47,7 +47,7 @@ class Extract():
             payload = response.json()
             
             if not payload:
-                break
+                raise InvalidJSONError('')
             
             data.extend(payload)
                     
@@ -93,7 +93,7 @@ class Extract():
             payload = response.json()
             
             if not payload:
-                break
+                raise InvalidJSONError('')
             
             data.extend(payload)
             
@@ -139,7 +139,7 @@ class Extract():
             payload = response.json()
             
             if not payload:
-                break
+                raise InvalidJSONError('')
             
             data.extend(payload)
             
@@ -155,8 +155,12 @@ class Extract():
             
         response = requests.get(link)
         response.raise_for_status()
+        payload = response.json()
         
-        return response.json()
+        if not payload:
+            raise InvalidJSONError('')
+
+        return payload 
     
     def run_three_monthly(self, link):
         
@@ -168,30 +172,18 @@ class Extract():
         
         data:list = []
         
-        year_init:int = 2025
-        month_init:int = 1
-        
-        now:datetime = datetime.now()
-        current_year = now.year
-        current_month = now.month
-        
         link_splitted:list = link.split('/')
         index_to_replace:int = link_splitted.index('first%201')
         
-        while (year_init, month_init) <= (current_year, current_month):
-            if month_init > 12:
-                month_init = 1
-                year_init += 1
-                
-            link_splitted[index_to_replace] = f'{year_init}{month_init:02d}'
-            link_joined = '/'.join(link_splitted)
-            response = requests.get(link_joined)
-            payload = response.json()
+        link_splitted[index_to_replace] = 'all'
+        link_joined = '/'.join(link_splitted)
+        
+        response = requests.get(link_joined)
+        payload = response.json()
             
-            if not payload:
-                break
+        if not payload:
+            raise InvalidJSONError('')
+   
+        data.extend(payload)
             
-            data.extend(payload)
-            
-            month_init += 1
         return data
