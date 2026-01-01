@@ -1,0 +1,10 @@
+[project]
+name = "sidra-ibge-etl"
+version = "0.1.0"
+description = "Pipeline que extrai dados do IBGE - sidra"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+]
