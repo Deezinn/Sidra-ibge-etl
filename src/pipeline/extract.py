@@ -8,65 +8,69 @@ class Extract():
     def run_quarterly(self, link: str) -> list:
         
         if not isinstance(link, str):
-            pass
+            raise TypeError('')
         
         if not link:
-            ValueError('')
+            raise ValueError('')
         
         data:list = []
         
-        year_base:int = 2025
-        quarter_base:int = 1
+        year_init:int = 2020
+        quarter_init:int = 1
                 
         now:datetime = datetime.now()
-        year_quarter_now:str = f'{now.year}0{(now.month - 1)// 3 + 1}'
         
+        current_quarter:int = (now.month - 1)// 3 + 1
+        current_year:int = now.year
+                
         link_splitted:list = link.split('/')
         
         if 'first%201' not in link_splitted:
             raise ValueError('link não contém o placeholder "first%201" ')  
         
         index_to_replace:int = link_splitted.index('first%201')
+        
+        while (year_init,quarter_init) <= (current_year,current_quarter):
             
-        while True:
-            year_quarter_base:str = f'{year_base}0{quarter_base}'
-            
-            if quarter_base > 4:
-                quarter_base = 1
-                year_base += 1
+            if quarter_init > 4:
+                quarter_init = 1
                 
-            link_splitted[index_to_replace] = year_quarter_base
-            link_joined = '/'.join(link_splitted)
+            if quarter_init == 4:
+                year_init += 1
             
-            response = requests.get(link_joined, timeout=60)
+            link_splitted[index_to_replace] = f'{year_init}{quarter_init:02d}'
+            link_joined:str = '/'.join(link_splitted)
+            
+            response = requests.get(link_joined)
             response.raise_for_status()
             
-            data.extend(response.json())
+            payload = response.json()
             
-            if year_quarter_base == year_quarter_now:
+            if not payload:
                 break
             
-            quarter_base += 1
-
-            
+            data.extend(payload)
+                    
+            quarter_init += 1
         return data
-            
+                
     def run_monthly(self, link: str) -> list:
         
         if not isinstance(link, str):
-            ValueError('')
+            raise TypeError('')
         
         if not link:
-            ValueError('')
+            raise ValueError('')
         
         data:list = []
         
-        year_base:int = 2025
-        month_base:int = 1
+        year_init:int = 2025
+        month_init:int = 1
         
         now:datetime = datetime.now()
-        year_month_now:str = f'{now.year}{now.month}'
-        
+        current_year:int = now.year
+        current_month:int = now.month
+              
         link_splitted:list = link.split('/')
         
         if 'first%201' not in link_splitted:
@@ -74,26 +78,26 @@ class Extract():
         
         index_to_replace:int = link_splitted.index('first%201')
         
-        while True:
-            year_month_base:str = f'{year_base}{month_base:02d}'
+        while (year_init, month_init) <= (current_year, current_month):
             
-            if month_base > 12:
-                month_base = 1
-                year_base += 1
+            if month_init > 12:
+                month_init = 1
+                year_init += 1
             
-            link_splitted[index_to_replace] = year_month_base
-            link_joined = '/'.join(link_splitted)
+            link_splitted[index_to_replace] = f'{year_init}{month_init:02d}'
+            link_joined:str = '/'.join(link_splitted)
             
-            response = requests.get(link_joined, timeout=60)
+            response = requests.get(link_joined)
             response.raise_for_status()
             
-            data.extend(response.json())
+            payload = response.json()
             
-            if year_month_base == year_month_now:
+            if not payload:
                 break
             
-            month_base += 1
-        
+            data.extend(payload)
+            
+            month_init += 1
         return data
 
     def run_semester(self, link: str) -> list:
@@ -106,12 +110,12 @@ class Extract():
         
         data:list = []
         
-        year_base:int = 2023
-        semester_base:int = 1
+        year_init:int = 2024
+        semester_init:int = 1
         
         now:datetime = datetime.now()
-        semester_now:int = (now.month - 1) // 6 + 1
-        year_semester_now:str = f'{now.year}0{semester_now}'
+        current_semester:int = (now.month - 1) // 6 + 1
+        current_year:int = now.year
 
         link_splitted = link.split('/') 
         
@@ -120,18 +124,18 @@ class Extract():
             
         index_to_replace = link_splitted.index('first%201')
         
-        while True:
-            if semester_base > 2:
-                semester_base = 1
-                year_base += 1    
+        while (year_init, semester_init) <= (current_year, current_semester):
             
-            year_semester_base = f'{year_base}0{semester_base}'
-            
-            link_splitted[index_to_replace] = year_semester_base
+            if semester_init > 2:
+                semester_init = 1
+                year_init += 1 
+                
+            link_splitted[index_to_replace] = f'{year_init}{semester_init:02d}'
             link_joined = '/'.join(link_splitted)
             
-            response = requests.get(link_joined, timeout=60)
+            response = requests.get(link_joined)
             response.raise_for_status()
+            
             payload = response.json()
             
             if not payload:
@@ -139,11 +143,7 @@ class Extract():
             
             data.extend(payload)
             
-            if year_semester_base == year_semester_now :
-                break
-            
-            semester_base += 1
-                        
+            semester_init += 1
         return data
     
     def run_one_monthly(self, link):
@@ -153,7 +153,7 @@ class Extract():
         if not link:
             ValueError('')
             
-        response = requests.get(link, timeout=60)
+        response = requests.get(link)
         response.raise_for_status()
         
         return response.json()
@@ -168,33 +168,30 @@ class Extract():
         
         data:list = []
         
-        year_base:int = 2023
-        month_base:int = 1
+        year_init:int = 2025
+        month_init:int = 1
         
         now:datetime = datetime.now()
-        year_month_now:str = f'{now.year}{now.month}'
+        current_year = now.year
+        current_month = now.month
         
         link_splitted:list = link.split('/')
         index_to_replace:int = link_splitted.index('first%201')
         
-        while True:
-            year_month_base:str = f'{year_base}{month_base:02d}'
-            
-            if month_base >= 12:
-                month_base = 1
-                year_base += 1
-            
-            link_splitted[index_to_replace] = year_month_base
+        while (year_init, month_init) <= (current_year, current_month):
+            if month_init > 12:
+                month_init = 1
+                year_init += 1
+                
+            link_splitted[index_to_replace] = f'{year_init}{month_init:02d}'
             link_joined = '/'.join(link_splitted)
+            response = requests.get(link_joined)
+            payload = response.json()
             
-            response = requests.get(link_joined, timeout=60)
-            response.raise_for_status()
-            
-            data.extend(response.json())
-            
-            if year_month_base == year_month_now:
+            if not payload:
                 break
             
-            month_base += 1
-        
+            data.extend(payload)
+            
+            month_init += 1
         return data
