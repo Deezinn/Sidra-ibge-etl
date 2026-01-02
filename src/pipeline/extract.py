@@ -5,7 +5,29 @@ from requests.exceptions import InvalidJSONError
 
 class Extract():
 
-    def run_quarterly(self, link: str) -> list:
+    @staticmethod
+    def _link_is_valid(link: str, serie: str):
+        """
+        Verifica se o link está batendo com a série
+        
+        :param link: recebe o link da constante
+        :type link: str
+        :param serie: recebe a serie da constante
+        :type serie: str
+        """
+        
+        link_splitted:list = link.split('/')
+        serie_splitted:list = serie.split('_')
+        
+        for value in serie_splitted:
+            if value.isdigit():
+                if value in link_splitted:
+                    continue
+                else:
+                    raise ValueError(f'{value} invalido da {serie} serie')
+
+    def run_quarterly(self, link: str, serie: str) -> list:
+        self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
             raise TypeError('')
@@ -15,7 +37,7 @@ class Extract():
         
         data:list = []
         
-        year_init:int = 2020
+        year_init:int = 2025
         quarter_init:int = 1
                 
         now:datetime = datetime.now()
@@ -26,7 +48,7 @@ class Extract():
         link_splitted:list = link.split('/')
         
         if 'first%201' not in link_splitted:
-            raise ValueError('link não contém o placeholder "first%201" ')  
+            raise ValueError(f'link não contém o placeholder "first%201" {serie}')  
         
         index_to_replace:int = link_splitted.index('first%201')
         
@@ -54,7 +76,8 @@ class Extract():
             quarter_init += 1
         return data
                 
-    def run_monthly(self, link: str) -> list:
+    def run_monthly(self, link: str, serie: str) -> list:
+        self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
             raise TypeError('')
@@ -64,7 +87,7 @@ class Extract():
         
         data:list = []
         
-        year_init:int = 2025
+        year_init:int = 2020
         month_init:int = 1
         
         now:datetime = datetime.now()
@@ -74,7 +97,7 @@ class Extract():
         link_splitted:list = link.split('/')
         
         if 'first%201' not in link_splitted:
-            raise ValueError('link não contém o placeholder "first%201" ')  
+            raise ValueError(f'link não contém o placeholder "first%201" {serie}')  
         
         index_to_replace:int = link_splitted.index('first%201')
         
@@ -100,7 +123,8 @@ class Extract():
             month_init += 1
         return data
 
-    def run_semester(self, link: str) -> list:
+    def run_semester(self, link: str, serie: str) -> list:
+        self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
             pass
@@ -110,7 +134,7 @@ class Extract():
         
         data:list = []
         
-        year_init:int = 2024
+        year_init:int = 2020
         semester_init:int = 1
         
         now:datetime = datetime.now()
@@ -120,7 +144,7 @@ class Extract():
         link_splitted = link.split('/') 
         
         if 'first%201' not in link_splitted:
-            raise ValueError('link não contém o placeholder "first%201" ')  
+            raise ValueError(f'link não contém o placeholder "first%201" {serie}')  
             
         index_to_replace = link_splitted.index('first%201')
         
@@ -146,7 +170,9 @@ class Extract():
             semester_init += 1
         return data
     
-    def run_one_monthly(self, link):
+    def run_one_monthly(self, link, serie: str):
+        self._link_is_valid(link=link, serie=serie)
+        
         if not isinstance(link, str):
             pass
         
@@ -162,7 +188,8 @@ class Extract():
 
         return payload 
     
-    def run_three_monthly(self, link):
+    def run_three_monthly(self, link, serie):
+        self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
             ValueError('')
@@ -187,3 +214,4 @@ class Extract():
         data.extend(payload)
             
         return data
+    
