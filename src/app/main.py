@@ -34,7 +34,7 @@ class Main:
             period = meta['period']
             url = meta['url']
             
-            data:dict = self.__dispatcher[period](url)
+            data:dict = self.__dispatcher[period](url, serie)
             # print(f'Série {serie} inicializada a etl')
             results.append({serie: data})
         
