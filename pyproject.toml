@@ -1,7 +1,10 @@
 [project]
 name = "sidra-ibge-etl"
 version = "0.1.0"
-description = "Pipeline que extrai dados do IBGE - sidra"
+description = "Pipeline ETL para extração, transformação e carga de dados do SIDRA/IBGE"
+authors = [
+  { name = "André Luiz" }
+]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

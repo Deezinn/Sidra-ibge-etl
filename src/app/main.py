@@ -29,21 +29,20 @@ class Main:
                 raise ValueError(f'{serie} url empty.')
             elif not meta['period']:
                 raise ValueError(f'{serie} period empty.')
-            
-            
+        
             period = meta['period']
             url = meta['url']
             
             data:dict = self.__dispatcher[period](url, serie)
-            # print(f'Série {serie} inicializada a etl')
+            print(f'Série {serie} inicializada a etl')
             results.append({serie: data})
         
         # temp
-        
         for result in results:
             key = next(iter(result.keys()))
             dataframe = pd.DataFrame(result[key])
             dataframe.to_csv(f'../temp/{key}.csv')
+            
             
 if __name__ == '__main__':
     m = Main(Extract())

@@ -37,7 +37,7 @@ class Extract():
         
         data:list = []
         
-        year_init:int = 2025
+        year_init:int = 2020
         quarter_init:int = 1
                 
         now:datetime = datetime.now()
@@ -170,7 +170,7 @@ class Extract():
             semester_init += 1
         return data
     
-    def run_one_monthly(self, link, serie: str):
+    def run_one_monthly(self, link, serie: str) -> list:
         self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
@@ -178,17 +178,21 @@ class Extract():
         
         if not link:
             ValueError('')
-            
+        
+        data:list = []
+        
         response = requests.get(link)
         response.raise_for_status()
+        
         payload = response.json()
         
         if not payload:
             raise InvalidJSONError('')
-
-        return payload 
+        
+        data.extend(payload)
+        return data 
     
-    def run_three_monthly(self, link, serie):
+    def run_three_monthly(self, link, serie) -> list:
         self._link_is_valid(link=link, serie=serie)
         
         if not isinstance(link, str):
