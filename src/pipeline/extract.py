@@ -38,7 +38,7 @@ class Extract():
         data:list = []
 
         year_init:int = 2025
-        quarter_init:int = 3
+        quarter_init:int = 2
 
         now:datetime = datetime.now()
 
@@ -88,7 +88,7 @@ class Extract():
         data:list = []
 
         year_init:int = 2025
-        month_init:int = 11
+        month_init:int = 10
 
         now:datetime = datetime.now()
         current_year:int = now.year
@@ -135,7 +135,7 @@ class Extract():
         data:list = []
 
         year_init:int = 2025
-        semester_init:int = 2
+        semester_init:int = 1
 
         now:datetime = datetime.now()
         current_semester:int = (now.month - 1) // 6 + 1

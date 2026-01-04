@@ -41,7 +41,7 @@ class Main:
         for result in results:
             key = next(iter(result.keys()))
             dataframe = pd.DataFrame(result[key])
-            dataframe.to_csv(f'../temp/{key}.csv')
+            dataframe.to_csv(f'../csv/{key}.csv')
             
             
 if __name__ == '__main__':
