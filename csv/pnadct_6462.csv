@@ -1,0 +1,51 @@
+,NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N
+0,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil e Grande Região (Código),Brasil e Grande Região,Variável (Código),Variável,Trimestre (Código),Trimestre
+1,1,Brasil,1572,Mil pessoas,212930,1,Brasil,606,População,202503,3º trimestre 2025
+2,1,Brasil,2,%,0.0,1,Brasil,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+3,1,Brasil,2,%,0.1,1,Brasil,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+4,1,Brasil,1572,Mil pessoas,204,1,Brasil,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+5,1,Brasil,1694,Nenhuma,Z,1,Brasil,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+6,1,Brasil,2,%,0.4,1,Brasil,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+7,1,Brasil,1572,Mil pessoas,830,1,Brasil,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+8,1,Brasil,1694,Nenhuma,Z,1,Brasil,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+9,2,Grande Região,1572,Mil pessoas,18472,1,Norte,606,População,202503,3º trimestre 2025
+10,2,Grande Região,2,%,0.0,1,Norte,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+11,2,Grande Região,2,%,0.2,1,Norte,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+12,2,Grande Região,1572,Mil pessoas,31,1,Norte,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+13,2,Grande Região,1694,Nenhuma,Z,1,Norte,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+14,2,Grande Região,2,%,0.7,1,Norte,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+15,2,Grande Região,1572,Mil pessoas,126,1,Norte,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+16,2,Grande Região,1694,Nenhuma,Z,1,Norte,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+17,2,Grande Região,1572,Mil pessoas,57111,2,Nordeste,606,População,202503,3º trimestre 2025
+18,2,Grande Região,2,%,0.0,2,Nordeste,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+19,2,Grande Região,2,%,0.1,2,Nordeste,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+20,2,Grande Região,1572,Mil pessoas,34,2,Nordeste,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+21,2,Grande Região,1694,Nenhuma,Z,2,Nordeste,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+22,2,Grande Região,2,%,0.2,2,Nordeste,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+23,2,Grande Região,1572,Mil pessoas,139,2,Nordeste,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+24,2,Grande Região,1694,Nenhuma,Z,2,Nordeste,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+25,2,Grande Região,1572,Mil pessoas,88922,3,Sudeste,606,População,202503,3º trimestre 2025
+26,2,Grande Região,2,%,0.0,3,Sudeste,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+27,2,Grande Região,2,%,0.1,3,Sudeste,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+28,2,Grande Região,1572,Mil pessoas,50,3,Sudeste,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+29,2,Grande Região,1694,Nenhuma,Z,3,Sudeste,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+30,2,Grande Região,2,%,0.2,3,Sudeste,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+31,2,Grande Região,1572,Mil pessoas,207,3,Sudeste,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+32,2,Grande Região,1694,Nenhuma,Z,3,Sudeste,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+33,2,Grande Região,1572,Mil pessoas,31284,4,Sul,606,População,202503,3º trimestre 2025
+34,2,Grande Região,2,%,0.0,4,Sul,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+35,2,Grande Região,2,%,0.2,4,Sul,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+36,2,Grande Região,1572,Mil pessoas,48,4,Sul,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+37,2,Grande Região,1694,Nenhuma,Z,4,Sul,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+38,2,Grande Região,2,%,0.6,4,Sul,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+39,2,Grande Região,1572,Mil pessoas,193,4,Sul,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+40,2,Grande Região,1694,Nenhuma,Z,4,Sul,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+41,2,Grande Região,1572,Mil pessoas,17141,5,Centro-Oeste,606,População,202503,3º trimestre 2025
+42,2,Grande Região,2,%,0.0,5,Centro-Oeste,6541,Coeficiente de variação - População,202503,3º trimestre 2025
+43,2,Grande Região,2,%,0.2,5,Centro-Oeste,9100,Variação percentual em relação ao trimestre anterior - População,202503,3º trimestre 2025
+44,2,Grande Região,1572,Mil pessoas,41,5,Centro-Oeste,9101,Variação absoluta em relação ao trimestre anterior - População,202503,3º trimestre 2025
+45,2,Grande Região,1694,Nenhuma,Z,5,Centro-Oeste,9104,Situação da Variação em relação ao trimestre anterior - População,202503,3º trimestre 2025
+46,2,Grande Região,2,%,1.0,5,Centro-Oeste,9105,Variação percentual em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+47,2,Grande Região,1572,Mil pessoas,165,5,Centro-Oeste,9106,Variação absoluta em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+48,2,Grande Região,1694,Nenhuma,Z,5,Centro-Oeste,9109,Situação da Variação em relação ao mesmo trimestre do ano anterior - População,202503,3º trimestre 2025
+49,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil e Grande Região (Código),Brasil e Grande Região,Variável (Código),Variável,Trimestre (Código),Trimestre

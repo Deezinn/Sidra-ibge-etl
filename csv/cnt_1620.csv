@@ -1,0 +1,25 @@
+,NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+0,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil (Código),Brasil,Variável (Código),Variável,Trimestre (Código),Trimestre,Setores e subsetores (Código),Setores e subsetores
+1,1,Brasil,30,Número-índice,272.12,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90687,Agropecuária - total
+2,1,Brasil,30,Número-índice,152.97,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90691,Indústria - total
+3,1,Brasil,30,Número-índice,281.31,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90692,Indústrias extrativas
+4,1,Brasil,30,Número-índice,125.94,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90693,Indústrias de transformação
+5,1,Brasil,30,Número-índice,210.12,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90695,"Eletricidade e gás, água, esgoto, atividades de gestão de resíduos"
+6,1,Brasil,30,Número-índice,163.91,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90694,Construção
+7,1,Brasil,30,Número-índice,207.67,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90696,Serviços - total
+8,1,Brasil,30,Número-índice,178.11,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90697,Comércio
+9,1,Brasil,30,Número-índice,182.34,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90698,"Transporte, armazenagem e correio"
+10,1,Brasil,30,Número-índice,470.58,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90699,Informação e comunicação
+11,1,Brasil,30,Número-índice,245.46,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90700,"Atividades financeiras, de seguros e serviços relacionados"
+12,1,Brasil,30,Número-índice,239.85,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90702,Atividades imobiliárias
+13,1,Brasil,30,Número-índice,208.01,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90701,Outras atividades de serviços
+14,1,Brasil,30,Número-índice,162.79,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90703,"Administração, saúde e educação públicas e seguridade social"
+15,1,Brasil,30,Número-índice,195.28,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90705,Valor adicionado a preços básicos
+16,1,Brasil,30,Número-índice,217.92,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90706,Impostos líquidos sobre produtos
+17,1,Brasil,30,Número-índice,198.66,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,90707,PIB a preços de mercado
+18,1,Brasil,30,Número-índice,209.51,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,93404,Despesa de consumo das famílias
+19,1,Brasil,30,Número-índice,166.75,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,93405,Despesa de consumo da administração pública
+20,1,Brasil,30,Número-índice,188.18,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,93406,Formação bruta de capital fixo
+21,1,Brasil,30,Número-índice,416.80,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,93407,Exportação de bens e serviços
+22,1,Brasil,30,Número-índice,327.90,1,Brasil,583,Série encadeada do índice de volume trimestral (Base: média 1995 = 100),202503,3º trimestre 2025,93408,Importação de bens e serviços (-)
+23,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil (Código),Brasil,Variável (Código),Variável,Trimestre (Código),Trimestre,Setores e subsetores (Código),Setores e subsetores

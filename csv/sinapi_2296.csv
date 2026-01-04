@@ -1,0 +1,301 @@
+,NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N
+0,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês
+1,1,Brasil,38,Reais,1882.06,1,Brasil,48,Custo médio m² - moeda corrente,202511,novembro 2025
+2,1,Brasil,38,Reais,1075.50,1,Brasil,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+3,1,Brasil,38,Reais,806.56,1,Brasil,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+4,1,Brasil,30,Número-índice,941.96,1,Brasil,49,Custo médio m² - número-índice,202511,novembro 2025
+5,1,Brasil,30,Número-índice,814.75,1,Brasil,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+6,1,Brasil,30,Número-índice,1272.62,1,Brasil,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+7,1,Brasil,2,%,0.25,1,Brasil,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+8,1,Brasil,2,%,5.09,1,Brasil,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+9,1,Brasil,2,%,5.31,1,Brasil,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+10,2,Grande Região,38,Reais,1942.32,1,Norte,48,Custo médio m² - moeda corrente,202511,novembro 2025
+11,2,Grande Região,38,Reais,1175.81,1,Norte,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+12,2,Grande Região,38,Reais,766.51,1,Norte,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+13,2,Grande Região,30,Número-índice,967.73,1,Norte,49,Custo médio m² - número-índice,202511,novembro 2025
+14,2,Grande Região,30,Número-índice,868.96,1,Norte,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+15,2,Grande Região,30,Número-índice,1235.27,1,Norte,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+16,2,Grande Região,2,%,0.17,1,Norte,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+17,2,Grande Região,2,%,4.55,1,Norte,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+18,2,Grande Região,2,%,4.84,1,Norte,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+19,2,Grande Região,38,Reais,1752.28,2,Nordeste,48,Custo médio m² - moeda corrente,202511,novembro 2025
+20,2,Grande Região,38,Reais,1044.96,2,Nordeste,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+21,2,Grande Região,38,Reais,707.32,2,Nordeste,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+22,2,Grande Região,30,Número-índice,946.76,2,Nordeste,49,Custo médio m² - número-índice,202511,novembro 2025
+23,2,Grande Região,30,Número-índice,806.40,2,Nordeste,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+24,2,Grande Região,30,Número-índice,1367.93,2,Nordeste,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+25,2,Grande Região,2,%,0.16,2,Nordeste,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+26,2,Grande Região,2,%,5.31,2,Nordeste,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+27,2,Grande Região,2,%,5.48,2,Nordeste,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+28,2,Grande Região,38,Reais,1924.15,3,Sudeste,48,Custo médio m² - moeda corrente,202511,novembro 2025
+29,2,Grande Região,38,Reais,1057.84,3,Sudeste,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+30,2,Grande Região,38,Reais,866.31,3,Sudeste,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+31,2,Grande Região,30,Número-índice,921.14,3,Sudeste,49,Custo médio m² - número-índice,202511,novembro 2025
+32,2,Grande Região,30,Número-índice,802.76,3,Sudeste,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+33,2,Grande Região,30,Número-índice,1208.85,3,Sudeste,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+34,2,Grande Região,2,%,0.34,3,Sudeste,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+35,2,Grande Região,2,%,4.74,3,Sudeste,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+36,2,Grande Região,2,%,4.96,3,Sudeste,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+37,2,Grande Região,38,Reais,2019.37,4,Sul,48,Custo médio m² - moeda corrente,202511,novembro 2025
+38,2,Grande Região,38,Reais,1104.55,4,Sul,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+39,2,Grande Região,38,Reais,914.82,4,Sul,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+40,2,Grande Região,30,Número-índice,965.87,4,Sul,49,Custo médio m² - número-índice,202511,novembro 2025
+41,2,Grande Região,30,Número-índice,819.97,4,Sul,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+42,2,Grande Região,30,Número-índice,1338.43,4,Sul,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+43,2,Grande Região,2,%,0.34,4,Sul,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+44,2,Grande Região,2,%,5.62,4,Sul,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+45,2,Grande Região,2,%,5.92,4,Sul,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+46,2,Grande Região,38,Reais,1904.98,5,Centro-Oeste,48,Custo médio m² - moeda corrente,202511,novembro 2025
+47,2,Grande Região,38,Reais,1115.07,5,Centro-Oeste,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+48,2,Grande Região,38,Reais,789.91,5,Centro-Oeste,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+49,2,Grande Região,30,Número-índice,972.30,5,Centro-Oeste,49,Custo médio m² - número-índice,202511,novembro 2025
+50,2,Grande Região,30,Número-índice,849.65,5,Centro-Oeste,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+51,2,Grande Região,30,Número-índice,1304.20,5,Centro-Oeste,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+52,2,Grande Região,2,%,0.14,5,Centro-Oeste,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+53,2,Grande Região,2,%,5.85,5,Centro-Oeste,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+54,2,Grande Região,2,%,6.12,5,Centro-Oeste,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+55,3,Unidade da Federação,38,Reais,2083.09,11,Rondônia,48,Custo médio m² - moeda corrente,202511,novembro 2025
+56,3,Unidade da Federação,38,Reais,1256.48,11,Rondônia,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+57,3,Unidade da Federação,38,Reais,826.61,11,Rondônia,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+58,3,Unidade da Federação,30,Número-índice,1161.68,11,Rondônia,49,Custo médio m² - número-índice,202511,novembro 2025
+59,3,Unidade da Federação,30,Número-índice,956.84,11,Rondônia,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+60,3,Unidade da Federação,30,Número-índice,1889.10,11,Rondônia,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+61,3,Unidade da Federação,2,%,0.06,11,Rondônia,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+62,3,Unidade da Federação,2,%,5.02,11,Rondônia,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+63,3,Unidade da Federação,2,%,5.05,11,Rondônia,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+64,3,Unidade da Federação,38,Reais,2129.62,12,Acre,48,Custo médio m² - moeda corrente,202511,novembro 2025
+65,3,Unidade da Federação,38,Reais,1304.39,12,Acre,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+66,3,Unidade da Federação,38,Reais,825.23,12,Acre,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+67,3,Unidade da Federação,30,Número-índice,1130.05,12,Acre,49,Custo médio m² - número-índice,202511,novembro 2025
+68,3,Unidade da Federação,30,Número-índice,948.07,12,Acre,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+69,3,Unidade da Federação,30,Número-índice,1699.53,12,Acre,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+70,3,Unidade da Federação,2,%,0.08,12,Acre,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+71,3,Unidade da Federação,2,%,7.97,12,Acre,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+72,3,Unidade da Federação,2,%,8.43,12,Acre,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+73,3,Unidade da Federação,38,Reais,1889.50,13,Amazonas,48,Custo médio m² - moeda corrente,202511,novembro 2025
+74,3,Unidade da Federação,38,Reais,1098.99,13,Amazonas,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+75,3,Unidade da Federação,38,Reais,790.51,13,Amazonas,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+76,3,Unidade da Federação,30,Número-índice,924.91,13,Amazonas,49,Custo médio m² - número-índice,202511,novembro 2025
+77,3,Unidade da Federação,30,Número-índice,811.56,13,Amazonas,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+78,3,Unidade da Federação,30,Número-índice,1192.06,13,Amazonas,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+79,3,Unidade da Federação,2,%,0.00,13,Amazonas,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+80,3,Unidade da Federação,2,%,3.60,13,Amazonas,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+81,3,Unidade da Federação,2,%,3.53,13,Amazonas,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+82,3,Unidade da Federação,38,Reais,2073.37,14,Roraima,48,Custo médio m² - moeda corrente,202511,novembro 2025
+83,3,Unidade da Federação,38,Reais,1200.32,14,Roraima,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+84,3,Unidade da Federação,38,Reais,873.05,14,Roraima,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+85,3,Unidade da Federação,30,Número-índice,861.09,14,Roraima,49,Custo médio m² - número-índice,202511,novembro 2025
+86,3,Unidade da Federação,30,Número-índice,790.16,14,Roraima,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+87,3,Unidade da Federação,30,Número-índice,1066.51,14,Roraima,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+88,3,Unidade da Federação,2,%,1.74,14,Roraima,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+89,3,Unidade da Federação,2,%,4.21,14,Roraima,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+90,3,Unidade da Federação,2,%,4.31,14,Roraima,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+91,3,Unidade da Federação,38,Reais,1910.07,15,Pará,48,Custo médio m² - moeda corrente,202511,novembro 2025
+92,3,Unidade da Federação,38,Reais,1176.91,15,Pará,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+93,3,Unidade da Federação,38,Reais,733.16,15,Pará,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+94,3,Unidade da Federação,30,Número-índice,915.82,15,Pará,49,Custo médio m² - número-índice,202511,novembro 2025
+95,3,Unidade da Federação,30,Número-índice,875.81,15,Pará,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+96,3,Unidade da Federação,30,Número-índice,1020.18,15,Pará,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+97,3,Unidade da Federação,2,%,0.04,15,Pará,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+98,3,Unidade da Federação,2,%,4.27,15,Pará,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+99,3,Unidade da Federação,2,%,4.84,15,Pará,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+100,3,Unidade da Federação,38,Reais,1912.87,16,Amapá,48,Custo médio m² - moeda corrente,202511,novembro 2025
+101,3,Unidade da Federação,38,Reais,1198.16,16,Amapá,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+102,3,Unidade da Federação,38,Reais,714.71,16,Amapá,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+103,3,Unidade da Federação,30,Número-índice,929.18,16,Amapá,49,Custo médio m² - número-índice,202511,novembro 2025
+104,3,Unidade da Federação,30,Número-índice,824.74,16,Amapá,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+105,3,Unidade da Federação,30,Número-índice,1238.18,16,Amapá,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+106,3,Unidade da Federação,2,%,0.17,16,Amapá,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+107,3,Unidade da Federação,2,%,6.82,16,Amapá,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+108,3,Unidade da Federação,2,%,7.49,16,Amapá,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+109,3,Unidade da Federação,38,Reais,1944.93,17,Tocantins,48,Custo médio m² - moeda corrente,202511,novembro 2025
+110,3,Unidade da Federação,38,Reais,1184.96,17,Tocantins,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+111,3,Unidade da Federação,38,Reais,759.97,17,Tocantins,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+112,3,Unidade da Federação,30,Número-índice,1022.61,17,Tocantins,49,Custo médio m² - número-índice,202511,novembro 2025
+113,3,Unidade da Federação,30,Número-índice,927.25,17,Tocantins,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+114,3,Unidade da Federação,30,Número-índice,1365.56,17,Tocantins,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+115,3,Unidade da Federação,2,%,0.72,17,Tocantins,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+116,3,Unidade da Federação,2,%,3.51,17,Tocantins,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+117,3,Unidade da Federação,2,%,3.27,17,Tocantins,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+118,3,Unidade da Federação,38,Reais,1829.60,21,Maranhão,48,Custo médio m² - moeda corrente,202511,novembro 2025
+119,3,Unidade da Federação,38,Reais,1113.09,21,Maranhão,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+120,3,Unidade da Federação,38,Reais,716.51,21,Maranhão,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+121,3,Unidade da Federação,30,Número-índice,964.10,21,Maranhão,49,Custo médio m² - número-índice,202511,novembro 2025
+122,3,Unidade da Federação,30,Número-índice,766.18,21,Maranhão,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+123,3,Unidade da Federação,30,Número-índice,1773.82,21,Maranhão,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+124,3,Unidade da Federação,2,%,0.45,21,Maranhão,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+125,3,Unidade da Federação,2,%,5.09,21,Maranhão,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+126,3,Unidade da Federação,2,%,5.68,21,Maranhão,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+127,3,Unidade da Federação,38,Reais,1765.21,22,Piauí,48,Custo médio m² - moeda corrente,202511,novembro 2025
+128,3,Unidade da Federação,38,Reais,1085.26,22,Piauí,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+129,3,Unidade da Federação,38,Reais,679.95,22,Piauí,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+130,3,Unidade da Federação,30,Número-índice,1173.29,22,Piauí,49,Custo médio m² - número-índice,202511,novembro 2025
+131,3,Unidade da Federação,30,Número-índice,982.76,22,Piauí,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+132,3,Unidade da Federação,30,Número-índice,1791.11,22,Piauí,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+133,3,Unidade da Federação,2,%,0.12,22,Piauí,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+134,3,Unidade da Federação,2,%,4.14,22,Piauí,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+135,3,Unidade da Federação,2,%,6.12,22,Piauí,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+136,3,Unidade da Federação,38,Reais,1786.91,23,Ceará,48,Custo médio m² - moeda corrente,202511,novembro 2025
+137,3,Unidade da Federação,38,Reais,1104.83,23,Ceará,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+138,3,Unidade da Federação,38,Reais,682.08,23,Ceará,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+139,3,Unidade da Federação,30,Número-índice,1032.23,23,Ceará,49,Custo médio m² - número-índice,202511,novembro 2025
+140,3,Unidade da Federação,30,Número-índice,889.58,23,Ceará,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+141,3,Unidade da Federação,30,Número-índice,1544.44,23,Ceará,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+142,3,Unidade da Federação,2,%,0.34,23,Ceará,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+143,3,Unidade da Federação,2,%,7.41,23,Ceará,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+144,3,Unidade da Federação,2,%,7.45,23,Ceará,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+145,3,Unidade da Federação,38,Reais,1747.25,24,Rio Grande do Norte,48,Custo médio m² - moeda corrente,202511,novembro 2025
+146,3,Unidade da Federação,38,Reais,1052.66,24,Rio Grande do Norte,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+147,3,Unidade da Federação,38,Reais,694.59,24,Rio Grande do Norte,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+148,3,Unidade da Federação,30,Número-índice,880.87,24,Rio Grande do Norte,49,Custo médio m² - número-índice,202511,novembro 2025
+149,3,Unidade da Federação,30,Número-índice,743.27,24,Rio Grande do Norte,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+150,3,Unidade da Federação,30,Número-índice,1292.26,24,Rio Grande do Norte,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+151,3,Unidade da Federação,2,%,0.03,24,Rio Grande do Norte,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+152,3,Unidade da Federação,2,%,3.71,24,Rio Grande do Norte,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+153,3,Unidade da Federação,2,%,3.71,24,Rio Grande do Norte,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+154,3,Unidade da Federação,38,Reais,1836.57,25,Paraíba,48,Custo médio m² - moeda corrente,202511,novembro 2025
+155,3,Unidade da Federação,38,Reais,1095.87,25,Paraíba,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+156,3,Unidade da Federação,38,Reais,740.70,25,Paraíba,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+157,3,Unidade da Federação,30,Número-índice,1015.68,25,Paraíba,49,Custo médio m² - número-índice,202511,novembro 2025
+158,3,Unidade da Federação,30,Número-índice,871.29,25,Paraíba,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+159,3,Unidade da Federação,30,Número-índice,1446.11,25,Paraíba,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+160,3,Unidade da Federação,2,%,0.12,25,Paraíba,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+161,3,Unidade da Federação,2,%,6.35,25,Paraíba,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+162,3,Unidade da Federação,2,%,6.48,25,Paraíba,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+163,3,Unidade da Federação,38,Reais,1673.03,26,Pernambuco,48,Custo médio m² - moeda corrente,202511,novembro 2025
+164,3,Unidade da Federação,38,Reais,971.74,26,Pernambuco,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+165,3,Unidade da Federação,38,Reais,701.29,26,Pernambuco,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+166,3,Unidade da Federação,30,Número-índice,894.16,26,Pernambuco,49,Custo médio m² - número-índice,202511,novembro 2025
+167,3,Unidade da Federação,30,Número-índice,724.55,26,Pernambuco,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+168,3,Unidade da Federação,30,Número-índice,1400.81,26,Pernambuco,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+169,3,Unidade da Federação,2,%,0.02,26,Pernambuco,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+170,3,Unidade da Federação,2,%,4.50,26,Pernambuco,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+171,3,Unidade da Federação,2,%,4.53,26,Pernambuco,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+172,3,Unidade da Federação,38,Reais,1717.82,27,Alagoas,48,Custo médio m² - moeda corrente,202511,novembro 2025
+173,3,Unidade da Federação,38,Reais,1029.48,27,Alagoas,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+174,3,Unidade da Federação,38,Reais,688.34,27,Alagoas,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+175,3,Unidade da Federação,30,Número-índice,858.01,27,Alagoas,49,Custo médio m² - número-índice,202511,novembro 2025
+176,3,Unidade da Federação,30,Número-índice,762.07,27,Alagoas,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+177,3,Unidade da Federação,30,Número-índice,1098.67,27,Alagoas,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+178,3,Unidade da Federação,2,%,0.01,27,Alagoas,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+179,3,Unidade da Federação,2,%,6.75,27,Alagoas,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+180,3,Unidade da Federação,2,%,7.02,27,Alagoas,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+181,3,Unidade da Federação,38,Reais,1670.98,28,Sergipe,48,Custo médio m² - moeda corrente,202511,novembro 2025
+182,3,Unidade da Federação,38,Reais,989.60,28,Sergipe,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+183,3,Unidade da Federação,38,Reais,681.38,28,Sergipe,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+184,3,Unidade da Federação,30,Número-índice,887.76,28,Sergipe,49,Custo médio m² - número-índice,202511,novembro 2025
+185,3,Unidade da Federação,30,Número-índice,738.93,28,Sergipe,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+186,3,Unidade da Federação,30,Número-índice,1370.96,28,Sergipe,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+187,3,Unidade da Federação,2,%,0.15,28,Sergipe,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+188,3,Unidade da Federação,2,%,4.76,28,Sergipe,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+189,3,Unidade da Federação,2,%,4.90,28,Sergipe,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+190,3,Unidade da Federação,38,Reais,1733.96,29,Bahia,48,Custo médio m² - moeda corrente,202511,novembro 2025
+191,3,Unidade da Federação,38,Reais,1007.40,29,Bahia,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+192,3,Unidade da Federação,38,Reais,726.56,29,Bahia,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+193,3,Unidade da Federação,30,Número-índice,917.90,29,Bahia,49,Custo médio m² - número-índice,202511,novembro 2025
+194,3,Unidade da Federação,30,Número-índice,814.01,29,Bahia,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+195,3,Unidade da Federação,30,Número-índice,1187.73,29,Bahia,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+196,3,Unidade da Federação,2,%,0.06,29,Bahia,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+197,3,Unidade da Federação,2,%,4.64,29,Bahia,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+198,3,Unidade da Federação,2,%,4.45,29,Bahia,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+199,3,Unidade da Federação,38,Reais,1753.11,31,Minas Gerais,48,Custo médio m² - moeda corrente,202511,novembro 2025
+200,3,Unidade da Federação,38,Reais,1024.38,31,Minas Gerais,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+201,3,Unidade da Federação,38,Reais,728.73,31,Minas Gerais,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+202,3,Unidade da Federação,30,Número-índice,964.79,31,Minas Gerais,49,Custo médio m² - número-índice,202511,novembro 2025
+203,3,Unidade da Federação,30,Número-índice,860.27,31,Minas Gerais,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+204,3,Unidade da Federação,30,Número-índice,1254.07,31,Minas Gerais,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+205,3,Unidade da Federação,2,%,0.05,31,Minas Gerais,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+206,3,Unidade da Federação,2,%,4.03,31,Minas Gerais,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+207,3,Unidade da Federação,2,%,4.07,31,Minas Gerais,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+208,3,Unidade da Federação,38,Reais,1704.46,32,Espírito Santo,48,Custo médio m² - moeda corrente,202511,novembro 2025
+209,3,Unidade da Federação,38,Reais,983.46,32,Espírito Santo,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+210,3,Unidade da Federação,38,Reais,721.00,32,Espírito Santo,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+211,3,Unidade da Federação,30,Número-índice,945.86,32,Espírito Santo,49,Custo médio m² - número-índice,202511,novembro 2025
+212,3,Unidade da Federação,30,Número-índice,782.81,32,Espírito Santo,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+213,3,Unidade da Federação,30,Número-índice,1390.51,32,Espírito Santo,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+214,3,Unidade da Federação,2,%,0.07,32,Espírito Santo,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+215,3,Unidade da Federação,2,%,4.77,32,Espírito Santo,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+216,3,Unidade da Federação,2,%,4.79,32,Espírito Santo,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+217,3,Unidade da Federação,38,Reais,2068.61,33,Rio de Janeiro,48,Custo médio m² - moeda corrente,202511,novembro 2025
+218,3,Unidade da Federação,38,Reais,1088.60,33,Rio de Janeiro,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+219,3,Unidade da Federação,38,Reais,980.01,33,Rio de Janeiro,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+220,3,Unidade da Federação,30,Número-índice,942.86,33,Rio de Janeiro,49,Custo médio m² - número-índice,202511,novembro 2025
+221,3,Unidade da Federação,30,Número-índice,767.41,33,Rio de Janeiro,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+222,3,Unidade da Federação,30,Número-índice,1339.82,33,Rio de Janeiro,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+223,3,Unidade da Federação,2,%,0.19,33,Rio de Janeiro,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+224,3,Unidade da Federação,2,%,4.88,33,Rio de Janeiro,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+225,3,Unidade da Federação,2,%,5.09,33,Rio de Janeiro,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+226,3,Unidade da Federação,38,Reais,1986.85,35,São Paulo,48,Custo médio m² - moeda corrente,202511,novembro 2025
+227,3,Unidade da Federação,38,Reais,1071.63,35,São Paulo,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+228,3,Unidade da Federação,38,Reais,915.22,35,São Paulo,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+229,3,Unidade da Federação,30,Número-índice,897.05,35,São Paulo,49,Custo médio m² - número-índice,202511,novembro 2025
+230,3,Unidade da Federação,30,Número-índice,788.49,35,São Paulo,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+231,3,Unidade da Federação,30,Número-índice,1158.28,35,São Paulo,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+232,3,Unidade da Federação,2,%,0.58,35,São Paulo,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+233,3,Unidade da Federação,2,%,5.06,35,São Paulo,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+234,3,Unidade da Federação,2,%,5.38,35,São Paulo,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+235,3,Unidade da Federação,38,Reais,2034.04,41,Paraná,48,Custo médio m² - moeda corrente,202511,novembro 2025
+236,3,Unidade da Federação,38,Reais,1093.33,41,Paraná,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+237,3,Unidade da Federação,38,Reais,940.71,41,Paraná,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+238,3,Unidade da Federação,30,Número-índice,972.56,41,Paraná,49,Custo médio m² - número-índice,202511,novembro 2025
+239,3,Unidade da Federação,30,Número-índice,855.06,41,Paraná,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+240,3,Unidade da Federação,30,Número-índice,1253.50,41,Paraná,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+241,3,Unidade da Federação,2,%,0.04,41,Paraná,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+242,3,Unidade da Federação,2,%,5.87,41,Paraná,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+243,3,Unidade da Federação,2,%,6.27,41,Paraná,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+244,3,Unidade da Federação,38,Reais,2141.49,42,Santa Catarina,48,Custo médio m² - moeda corrente,202511,novembro 2025
+245,3,Unidade da Federação,38,Reais,1118.76,42,Santa Catarina,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+246,3,Unidade da Federação,38,Reais,1022.73,42,Santa Catarina,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+247,3,Unidade da Federação,30,Número-índice,1159.38,42,Santa Catarina,49,Custo médio m² - número-índice,202511,novembro 2025
+248,3,Unidade da Federação,30,Número-índice,928.78,42,Santa Catarina,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+249,3,Unidade da Federação,30,Número-índice,1702.06,42,Santa Catarina,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+250,3,Unidade da Federação,2,%,1.04,42,Santa Catarina,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+251,3,Unidade da Federação,2,%,5.52,42,Santa Catarina,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+252,3,Unidade da Federação,2,%,5.64,42,Santa Catarina,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+253,3,Unidade da Federação,38,Reais,1877.05,43,Rio Grande do Sul,48,Custo médio m² - moeda corrente,202511,novembro 2025
+254,3,Unidade da Federação,38,Reais,1109.69,43,Rio Grande do Sul,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+255,3,Unidade da Federação,38,Reais,767.36,43,Rio Grande do Sul,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+256,3,Unidade da Federação,30,Número-índice,851.68,43,Rio Grande do Sul,49,Custo médio m² - número-índice,202511,novembro 2025
+257,3,Unidade da Federação,30,Número-índice,716.78,43,Rio Grande do Sul,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+258,3,Unidade da Federação,30,Número-índice,1242.28,43,Rio Grande do Sul,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+259,3,Unidade da Federação,2,%,0.11,43,Rio Grande do Sul,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+260,3,Unidade da Federação,2,%,5.23,43,Rio Grande do Sul,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+261,3,Unidade da Federação,2,%,5.55,43,Rio Grande do Sul,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+262,3,Unidade da Federação,38,Reais,1820.31,50,Mato Grosso do Sul,48,Custo médio m² - moeda corrente,202511,novembro 2025
+263,3,Unidade da Federação,38,Reais,1063.20,50,Mato Grosso do Sul,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+264,3,Unidade da Federação,38,Reais,757.11,50,Mato Grosso do Sul,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+265,3,Unidade da Federação,30,Número-índice,856.39,50,Mato Grosso do Sul,49,Custo médio m² - número-índice,202511,novembro 2025
+266,3,Unidade da Federação,30,Número-índice,735.90,50,Mato Grosso do Sul,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+267,3,Unidade da Federação,30,Número-índice,1164.95,50,Mato Grosso do Sul,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+268,3,Unidade da Federação,2,%,0.06,50,Mato Grosso do Sul,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+269,3,Unidade da Federação,2,%,4.71,50,Mato Grosso do Sul,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+270,3,Unidade da Federação,2,%,4.78,50,Mato Grosso do Sul,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+271,3,Unidade da Federação,38,Reais,1989.99,51,Mato Grosso,48,Custo médio m² - moeda corrente,202511,novembro 2025
+272,3,Unidade da Federação,38,Reais,1184.04,51,Mato Grosso,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+273,3,Unidade da Federação,38,Reais,805.95,51,Mato Grosso,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+274,3,Unidade da Federação,30,Número-índice,1134.95,51,Mato Grosso,49,Custo médio m² - número-índice,202511,novembro 2025
+275,3,Unidade da Federação,30,Número-índice,1035.40,51,Mato Grosso,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+276,3,Unidade da Federação,30,Número-índice,1381.35,51,Mato Grosso,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+277,3,Unidade da Federação,2,%,0.09,51,Mato Grosso,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+278,3,Unidade da Federação,2,%,7.38,51,Mato Grosso,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+279,3,Unidade da Federação,2,%,7.80,51,Mato Grosso,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+280,3,Unidade da Federação,38,Reais,1850.61,52,Goiás,48,Custo médio m² - moeda corrente,202511,novembro 2025
+281,3,Unidade da Federação,38,Reais,1054.02,52,Goiás,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+282,3,Unidade da Federação,38,Reais,796.59,52,Goiás,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+283,3,Unidade da Federação,30,Número-índice,977.60,52,Goiás,49,Custo médio m² - número-índice,202511,novembro 2025
+284,3,Unidade da Federação,30,Número-índice,815.36,52,Goiás,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+285,3,Unidade da Federação,30,Número-índice,1447.25,52,Goiás,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+286,3,Unidade da Federação,2,%,0.29,52,Goiás,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+287,3,Unidade da Federação,2,%,5.21,52,Goiás,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+288,3,Unidade da Federação,2,%,5.49,52,Goiás,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+289,3,Unidade da Federação,38,Reais,1925.20,53,Distrito Federal,48,Custo médio m² - moeda corrente,202511,novembro 2025
+290,3,Unidade da Federação,38,Reais,1143.59,53,Distrito Federal,2119,Custo médio m² - componente material - moeda corrente,202511,novembro 2025
+291,3,Unidade da Federação,38,Reais,781.61,53,Distrito Federal,2120,Custo médio m² - componente mão-de-obra - moeda corrente,202511,novembro 2025
+292,3,Unidade da Federação,30,Número-índice,850.45,53,Distrito Federal,49,Custo médio m² - número-índice,202511,novembro 2025
+293,3,Unidade da Federação,30,Número-índice,758.58,53,Distrito Federal,1193,Custo médio m² - componente material - número-índice,202511,novembro 2025
+294,3,Unidade da Federação,30,Número-índice,1098.10,53,Distrito Federal,1232,Custo médio m² - componente mão-de-obra - número-índice,202511,novembro 2025
+295,3,Unidade da Federação,2,%,0.05,53,Distrito Federal,1196,Custo médio m² - variação percentual no mês,202511,novembro 2025
+296,3,Unidade da Federação,2,%,5.35,53,Distrito Federal,1197,Custo médio m² - variação percentual no ano,202511,novembro 2025
+297,3,Unidade da Federação,2,%,5.54,53,Distrito Federal,1198,Custo médio m² - variação percentual em doze meses,202511,novembro 2025
+298,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês
+299,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês

@@ -1,0 +1,301 @@
+,NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N
+0,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês
+1,1,Brasil,38,Reais,2005.97,1,Brasil,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+2,1,Brasil,38,Reais,1078.63,1,Brasil,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+3,1,Brasil,38,Reais,927.34,1,Brasil,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+4,1,Brasil,30,Número-índice,1003.20,1,Brasil,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+5,1,Brasil,30,Número-índice,816.61,1,Brasil,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+6,1,Brasil,30,Número-índice,1463.71,1,Brasil,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+7,1,Brasil,2,%,0.25,1,Brasil,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+8,1,Brasil,2,%,5.21,1,Brasil,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+9,1,Brasil,2,%,5.43,1,Brasil,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+10,2,Grande Região,38,Reais,2060.17,1,Norte,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+11,2,Grande Região,38,Reais,1176.63,1,Norte,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+12,2,Grande Região,38,Reais,883.54,1,Norte,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+13,2,Grande Região,30,Número-índice,1026.61,1,Norte,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+14,2,Grande Região,30,Número-índice,869.56,1,Norte,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+15,2,Grande Região,30,Número-índice,1424.57,1,Norte,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+16,2,Grande Região,2,%,0.18,1,Norte,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+17,2,Grande Região,2,%,4.72,1,Norte,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+18,2,Grande Região,2,%,5.01,1,Norte,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+19,2,Grande Região,38,Reais,1860.90,2,Nordeste,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+20,2,Grande Região,38,Reais,1047.04,2,Nordeste,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+21,2,Grande Região,38,Reais,813.86,2,Nordeste,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+22,2,Grande Região,30,Número-índice,1005.11,2,Nordeste,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+23,2,Grande Região,30,Número-índice,807.60,2,Nordeste,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+24,2,Grande Região,30,Número-índice,1575.22,2,Nordeste,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+25,2,Grande Região,2,%,0.16,2,Nordeste,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+26,2,Grande Região,2,%,5.36,2,Nordeste,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+27,2,Grande Região,2,%,5.53,2,Nordeste,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+28,2,Grande Região,38,Reais,2057.42,3,Sudeste,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+29,2,Grande Região,38,Reais,1058.05,3,Sudeste,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+30,2,Grande Região,38,Reais,999.37,3,Sudeste,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+31,2,Grande Região,30,Número-índice,984.28,3,Sudeste,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+32,2,Grande Região,30,Número-índice,803.03,3,Sudeste,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+33,2,Grande Região,30,Número-índice,1395.23,3,Sudeste,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+34,2,Grande Região,2,%,0.32,3,Sudeste,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+35,2,Grande Região,2,%,4.82,3,Sudeste,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+36,2,Grande Região,2,%,5.03,3,Sudeste,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+37,2,Grande Região,38,Reais,2159.46,4,Sul,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+38,2,Grande Região,38,Reais,1119.00,4,Sul,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+39,2,Grande Região,38,Reais,1040.46,4,Sul,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+40,2,Grande Região,30,Número-índice,1032.54,4,Sul,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+41,2,Grande Região,30,Número-índice,830.95,4,Sul,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+42,2,Grande Região,30,Número-índice,1522.51,4,Sul,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+43,2,Grande Região,2,%,0.35,4,Sul,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+44,2,Grande Região,2,%,5.71,4,Sul,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+45,2,Grande Região,2,%,5.95,4,Sul,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+46,2,Grande Região,38,Reais,2026.22,5,Centro-Oeste,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+47,2,Grande Região,38,Reais,1120.50,5,Centro-Oeste,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+48,2,Grande Região,38,Reais,905.72,5,Centro-Oeste,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+49,2,Grande Região,30,Número-índice,1034.11,5,Centro-Oeste,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+50,2,Grande Região,30,Número-índice,853.15,5,Centro-Oeste,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+51,2,Grande Região,30,Número-índice,1495.13,5,Centro-Oeste,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+52,2,Grande Região,2,%,0.14,5,Centro-Oeste,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+53,2,Grande Região,2,%,6.02,5,Centro-Oeste,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+54,2,Grande Região,2,%,6.30,5,Centro-Oeste,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+55,3,Unidade da Federação,38,Reais,2210.27,11,Rondônia,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+56,3,Unidade da Federação,38,Reais,1256.48,11,Rondônia,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+57,3,Unidade da Federação,38,Reais,953.79,11,Rondônia,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+58,3,Unidade da Federação,30,Número-índice,1232.55,11,Rondônia,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+59,3,Unidade da Federação,30,Número-índice,956.79,11,Rondônia,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+60,3,Unidade da Federação,30,Número-índice,2179.76,11,Rondônia,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+61,3,Unidade da Federação,2,%,0.05,11,Rondônia,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+62,3,Unidade da Federação,2,%,5.02,11,Rondônia,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+63,3,Unidade da Federação,2,%,5.04,11,Rondônia,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+64,3,Unidade da Federação,38,Reais,2256.49,12,Acre,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+65,3,Unidade da Federação,38,Reais,1305.21,12,Acre,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+66,3,Unidade da Federação,38,Reais,951.28,12,Acre,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+67,3,Unidade da Federação,30,Número-índice,1197.67,12,Acre,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+68,3,Unidade da Federação,30,Número-índice,948.11,12,Acre,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+69,3,Unidade da Federação,30,Número-índice,1959.31,12,Acre,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+70,3,Unidade da Federação,2,%,0.07,12,Acre,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+71,3,Unidade da Federação,2,%,8.21,12,Acre,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+72,3,Unidade da Federação,2,%,8.65,12,Acre,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+73,3,Unidade da Federação,38,Reais,2011.12,13,Amazonas,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+74,3,Unidade da Federação,38,Reais,1098.99,13,Amazonas,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+75,3,Unidade da Federação,38,Reais,912.13,13,Amazonas,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+76,3,Unidade da Federação,30,Número-índice,984.67,13,Amazonas,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+77,3,Unidade da Federação,30,Número-índice,812.04,13,Amazonas,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+78,3,Unidade da Federação,30,Número-índice,1375.46,13,Amazonas,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+79,3,Unidade da Federação,2,%,0.00,13,Amazonas,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+80,3,Unidade da Federação,2,%,3.86,13,Amazonas,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+81,3,Unidade da Federação,2,%,3.79,13,Amazonas,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+82,3,Unidade da Federação,38,Reais,2205.91,14,Roraima,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+83,3,Unidade da Federação,38,Reais,1217.74,14,Roraima,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+84,3,Unidade da Federação,38,Reais,988.17,14,Roraima,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+85,3,Unidade da Federação,30,Número-índice,915.92,14,Roraima,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+86,3,Unidade da Federação,30,Número-índice,801.22,14,Roraima,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+87,3,Unidade da Federação,30,Número-índice,1207.66,14,Roraima,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+88,3,Unidade da Federação,2,%,1.94,14,Roraima,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+89,3,Unidade da Federação,2,%,4.39,14,Roraima,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+90,3,Unidade da Federação,2,%,4.51,14,Roraima,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+91,3,Unidade da Federação,38,Reais,2022.87,15,Pará,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+92,3,Unidade da Federação,38,Reais,1176.91,15,Pará,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+93,3,Unidade da Federação,38,Reais,845.96,15,Pará,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+94,3,Unidade da Federação,30,Número-índice,969.80,15,Pará,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+95,3,Unidade da Federação,30,Número-índice,875.62,15,Pará,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+96,3,Unidade da Federação,30,Número-índice,1177.40,15,Pará,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+97,3,Unidade da Federação,2,%,0.05,15,Pará,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+98,3,Unidade da Federação,2,%,4.47,15,Pará,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+99,3,Unidade da Federação,2,%,5.02,15,Pará,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+100,3,Unidade da Federação,38,Reais,2022.83,16,Amapá,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+101,3,Unidade da Federação,38,Reais,1198.16,16,Amapá,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+102,3,Unidade da Federação,38,Reais,824.67,16,Amapá,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+103,3,Unidade da Federação,30,Número-índice,982.73,16,Amapá,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+104,3,Unidade da Federação,30,Número-índice,824.56,16,Amapá,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+105,3,Unidade da Federação,30,Número-índice,1428.43,16,Amapá,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+106,3,Unidade da Federação,2,%,0.16,16,Amapá,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+107,3,Unidade da Federação,2,%,6.74,16,Amapá,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+108,3,Unidade da Federação,2,%,7.37,16,Amapá,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+109,3,Unidade da Federação,38,Reais,2061.85,17,Tocantins,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+110,3,Unidade da Federação,38,Reais,1184.96,17,Tocantins,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+111,3,Unidade da Federação,38,Reais,876.89,17,Tocantins,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+112,3,Unidade da Federação,30,Número-índice,1084.42,17,Tocantins,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+113,3,Unidade da Federação,30,Número-índice,927.30,17,Tocantins,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+114,3,Unidade da Federação,30,Número-índice,1576.81,17,Tocantins,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+115,3,Unidade da Federação,2,%,0.68,17,Tocantins,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+116,3,Unidade da Federação,2,%,3.66,17,Tocantins,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+117,3,Unidade da Federação,2,%,3.44,17,Tocantins,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+118,3,Unidade da Federação,38,Reais,1939.84,21,Maranhão,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+119,3,Unidade da Federação,38,Reais,1113.09,21,Maranhão,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+120,3,Unidade da Federação,38,Reais,826.75,21,Maranhão,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+121,3,Unidade da Federação,30,Número-índice,1022.34,21,Maranhão,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+122,3,Unidade da Federação,30,Número-índice,766.04,21,Maranhão,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+123,3,Unidade da Federação,30,Número-índice,2045.56,21,Maranhão,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+124,3,Unidade da Federação,2,%,0.43,21,Maranhão,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+125,3,Unidade da Federação,2,%,5.09,21,Maranhão,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+126,3,Unidade da Federação,2,%,5.67,21,Maranhão,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+127,3,Unidade da Federação,38,Reais,1869.82,22,Piauí,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+128,3,Unidade da Federação,38,Reais,1085.26,22,Piauí,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+129,3,Unidade da Federação,38,Reais,784.56,22,Piauí,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+130,3,Unidade da Federação,30,Número-índice,1242.54,22,Piauí,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+131,3,Unidade da Federação,30,Número-índice,982.94,22,Piauí,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+132,3,Unidade da Federação,30,Número-índice,2066.53,22,Piauí,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+133,3,Unidade da Federação,2,%,0.11,22,Piauí,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+134,3,Unidade da Federação,2,%,4.10,22,Piauí,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+135,3,Unidade da Federação,2,%,6.14,22,Piauí,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+136,3,Unidade da Federação,38,Reais,1891.57,23,Ceará,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+137,3,Unidade da Federação,38,Reais,1107.49,23,Ceará,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+138,3,Unidade da Federação,38,Reais,784.08,23,Ceará,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+139,3,Unidade da Federação,30,Número-índice,1091.75,23,Ceará,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+140,3,Unidade da Federação,30,Número-índice,890.92,23,Ceará,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+141,3,Unidade da Federação,30,Número-índice,1774.56,23,Ceará,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+142,3,Unidade da Federação,2,%,0.32,23,Ceará,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+143,3,Unidade da Federação,2,%,7.32,23,Ceará,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+144,3,Unidade da Federação,2,%,7.37,23,Ceará,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+145,3,Unidade da Federação,38,Reais,1853.86,24,Rio Grande do Norte,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+146,3,Unidade da Federação,38,Reais,1055.25,24,Rio Grande do Norte,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+147,3,Unidade da Federação,38,Reais,798.61,24,Rio Grande do Norte,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+148,3,Unidade da Federação,30,Número-índice,934.37,24,Rio Grande do Norte,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+149,3,Unidade da Federação,30,Número-índice,744.99,24,Rio Grande do Norte,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+150,3,Unidade da Federação,30,Número-índice,1486.27,24,Rio Grande do Norte,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+151,3,Unidade da Federação,2,%,0.08,24,Rio Grande do Norte,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+152,3,Unidade da Federação,2,%,3.84,24,Rio Grande do Norte,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+153,3,Unidade da Federação,2,%,3.84,24,Rio Grande do Norte,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+154,3,Unidade da Federação,38,Reais,1950.13,25,Paraíba,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+155,3,Unidade da Federação,38,Reais,1100.29,25,Paraíba,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+156,3,Unidade da Federação,38,Reais,849.84,25,Paraíba,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+157,3,Unidade da Federação,30,Número-índice,1078.34,25,Paraíba,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+158,3,Unidade da Federação,30,Número-índice,874.85,25,Paraíba,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+159,3,Unidade da Federação,30,Número-índice,1659.03,25,Paraíba,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+160,3,Unidade da Federação,2,%,0.11,25,Paraíba,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+161,3,Unidade da Federação,2,%,6.46,25,Paraíba,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+162,3,Unidade da Federação,2,%,6.57,25,Paraíba,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+163,3,Unidade da Federação,38,Reais,1780.78,26,Pernambuco,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+164,3,Unidade da Federação,38,Reais,973.12,26,Pernambuco,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+165,3,Unidade da Federação,38,Reais,807.66,26,Pernambuco,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+166,3,Unidade da Federação,30,Número-índice,952.52,26,Pernambuco,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+167,3,Unidade da Federação,30,Número-índice,725.41,26,Pernambuco,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+168,3,Unidade da Federação,30,Número-índice,1613.49,26,Pernambuco,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+169,3,Unidade da Federação,2,%,0.03,26,Pernambuco,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+170,3,Unidade da Federação,2,%,4.70,26,Pernambuco,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+171,3,Unidade da Federação,2,%,4.71,26,Pernambuco,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+172,3,Unidade da Federação,38,Reais,1823.37,27,Alagoas,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+173,3,Unidade da Federação,38,Reais,1032.05,27,Alagoas,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+174,3,Unidade da Federação,38,Reais,791.32,27,Alagoas,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+175,3,Unidade da Federação,30,Número-índice,911.39,27,Alagoas,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+176,3,Unidade da Federação,30,Número-índice,763.87,27,Alagoas,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+177,3,Unidade da Federação,30,Número-índice,1263.44,27,Alagoas,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+178,3,Unidade da Federação,2,%,0.01,27,Alagoas,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+179,3,Unidade da Federação,2,%,7.02,27,Alagoas,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+180,3,Unidade da Federação,2,%,7.26,27,Alagoas,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+181,3,Unidade da Federação,38,Reais,1775.81,28,Sergipe,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+182,3,Unidade da Federação,38,Reais,989.60,28,Sergipe,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+183,3,Unidade da Federação,38,Reais,786.21,28,Sergipe,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+184,3,Unidade da Federação,30,Número-índice,943.83,28,Sergipe,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+185,3,Unidade da Federação,30,Número-índice,738.81,28,Sergipe,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+186,3,Unidade da Federação,30,Número-índice,1582.07,28,Sergipe,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+187,3,Unidade da Federação,2,%,0.14,28,Sergipe,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+188,3,Unidade da Federação,2,%,5.03,28,Sergipe,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+189,3,Unidade da Federação,2,%,5.17,28,Sergipe,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+190,3,Unidade da Federação,38,Reais,1845.51,29,Bahia,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+191,3,Unidade da Federação,38,Reais,1010.43,29,Bahia,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+192,3,Unidade da Federação,38,Reais,835.08,29,Bahia,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+193,3,Unidade da Federação,30,Número-índice,976.09,29,Bahia,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+194,3,Unidade da Federação,30,Número-índice,816.40,29,Bahia,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+195,3,Unidade da Federação,30,Número-índice,1364.98,29,Bahia,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+196,3,Unidade da Federação,2,%,0.06,29,Bahia,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+197,3,Unidade da Federação,2,%,4.71,29,Bahia,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+198,3,Unidade da Federação,2,%,4.55,29,Bahia,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+199,3,Unidade da Federação,38,Reais,1865.21,31,Minas Gerais,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+200,3,Unidade da Federação,38,Reais,1024.81,31,Minas Gerais,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+201,3,Unidade da Federação,38,Reais,840.40,31,Minas Gerais,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+202,3,Unidade da Federação,30,Número-índice,1025.87,31,Minas Gerais,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+203,3,Unidade da Federação,30,Número-índice,860.80,31,Minas Gerais,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+204,3,Unidade da Federação,30,Número-índice,1446.39,31,Minas Gerais,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+205,3,Unidade da Federação,2,%,0.05,31,Minas Gerais,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+206,3,Unidade da Federação,2,%,4.20,31,Minas Gerais,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+207,3,Unidade da Federação,2,%,4.27,31,Minas Gerais,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+208,3,Unidade da Federação,38,Reais,1815.24,32,Espírito Santo,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+209,3,Unidade da Federação,38,Reais,985.77,32,Espírito Santo,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+210,3,Unidade da Federação,38,Reais,829.47,32,Espírito Santo,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+211,3,Unidade da Federação,30,Número-índice,1007.14,32,Espírito Santo,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+212,3,Unidade da Federação,30,Número-índice,785.05,32,Espírito Santo,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+213,3,Unidade da Federação,30,Número-índice,1599.64,32,Espírito Santo,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+214,3,Unidade da Federação,2,%,0.08,32,Espírito Santo,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+215,3,Unidade da Federação,2,%,4.84,32,Espírito Santo,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+216,3,Unidade da Federação,2,%,4.86,32,Espírito Santo,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+217,3,Unidade da Federação,38,Reais,2219.39,33,Rio de Janeiro,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+218,3,Unidade da Federação,38,Reais,1088.60,33,Rio de Janeiro,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+219,3,Unidade da Federação,38,Reais,1130.79,33,Rio de Janeiro,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+220,3,Unidade da Federação,30,Número-índice,1012.33,33,Rio de Janeiro,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+221,3,Unidade da Federação,30,Número-índice,767.08,33,Rio de Janeiro,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+222,3,Unidade da Federação,30,Número-índice,1546.11,33,Rio de Janeiro,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+223,3,Unidade da Federação,2,%,0.18,33,Rio de Janeiro,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+224,3,Unidade da Federação,2,%,5.00,33,Rio de Janeiro,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+225,3,Unidade da Federação,2,%,5.18,33,Rio de Janeiro,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+226,3,Unidade da Federação,38,Reais,2127.66,35,São Paulo,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+227,3,Unidade da Federação,38,Reais,1071.63,35,São Paulo,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+228,3,Unidade da Federação,38,Reais,1056.03,35,São Paulo,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+229,3,Unidade da Federação,30,Número-índice,960.83,35,São Paulo,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+230,3,Unidade da Federação,30,Número-índice,788.25,35,São Paulo,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+231,3,Unidade da Federação,30,Número-índice,1336.77,35,São Paulo,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+232,3,Unidade da Federação,2,%,0.54,35,São Paulo,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+233,3,Unidade da Federação,2,%,5.06,35,São Paulo,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+234,3,Unidade da Federação,2,%,5.38,35,São Paulo,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+235,3,Unidade da Federação,38,Reais,2178.53,41,Paraná,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+236,3,Unidade da Federação,38,Reais,1112.64,41,Paraná,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+237,3,Unidade da Federação,38,Reais,1065.89,41,Paraná,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+238,3,Unidade da Federação,30,Número-índice,1041.68,41,Paraná,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+239,3,Unidade da Federação,30,Número-índice,870.34,41,Paraná,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+240,3,Unidade da Federação,30,Número-índice,1420.24,41,Paraná,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+241,3,Unidade da Federação,2,%,0.06,41,Paraná,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+242,3,Unidade da Federação,2,%,5.98,41,Paraná,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+243,3,Unidade da Federação,2,%,6.29,41,Paraná,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+244,3,Unidade da Federação,38,Reais,2297.04,42,Santa Catarina,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+245,3,Unidade da Federação,38,Reais,1137.52,42,Santa Catarina,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+246,3,Unidade da Federação,38,Reais,1159.52,42,Santa Catarina,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+247,3,Unidade da Federação,30,Número-índice,1243.96,42,Santa Catarina,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+248,3,Unidade da Federação,30,Número-índice,944.43,42,Santa Catarina,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+249,3,Unidade da Federação,30,Número-índice,1929.63,42,Santa Catarina,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+250,3,Unidade da Federação,2,%,1.05,42,Santa Catarina,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+251,3,Unidade da Federação,2,%,5.70,42,Santa Catarina,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+252,3,Unidade da Federação,2,%,5.77,42,Santa Catarina,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+253,3,Unidade da Federação,38,Reais,1994.87,43,Rio Grande do Sul,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+254,3,Unidade da Federação,38,Reais,1111.84,43,Rio Grande do Sul,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+255,3,Unidade da Federação,38,Reais,883.03,43,Rio Grande do Sul,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+256,3,Unidade da Federação,30,Número-índice,905.82,43,Rio Grande do Sul,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+257,3,Unidade da Federação,30,Número-índice,717.81,43,Rio Grande do Sul,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+258,3,Unidade da Federação,30,Número-índice,1429.46,43,Rio Grande do Sul,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+259,3,Unidade da Federação,2,%,0.11,43,Rio Grande do Sul,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+260,3,Unidade da Federação,2,%,5.29,43,Rio Grande do Sul,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+261,3,Unidade da Federação,2,%,5.58,43,Rio Grande do Sul,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+262,3,Unidade da Federação,38,Reais,1936.80,50,Mato Grosso do Sul,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+263,3,Unidade da Federação,38,Reais,1063.20,50,Mato Grosso do Sul,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+264,3,Unidade da Federação,38,Reais,873.60,50,Mato Grosso do Sul,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+265,3,Unidade da Federação,30,Número-índice,910.41,50,Mato Grosso do Sul,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+266,3,Unidade da Federação,30,Número-índice,735.59,50,Mato Grosso do Sul,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+267,3,Unidade da Federação,30,Número-índice,1344.25,50,Mato Grosso do Sul,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+268,3,Unidade da Federação,2,%,0.05,50,Mato Grosso do Sul,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+269,3,Unidade da Federação,2,%,4.85,50,Mato Grosso do Sul,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+270,3,Unidade da Federação,2,%,4.91,50,Mato Grosso do Sul,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+271,3,Unidade da Federação,38,Reais,2113.98,51,Mato Grosso,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+272,3,Unidade da Federação,38,Reais,1184.04,51,Mato Grosso,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+273,3,Unidade da Federação,38,Reais,929.94,51,Mato Grosso,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+274,3,Unidade da Federação,30,Número-índice,1206.31,51,Mato Grosso,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+275,3,Unidade da Federação,30,Número-índice,1035.43,51,Mato Grosso,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+276,3,Unidade da Federação,30,Número-índice,1593.36,51,Mato Grosso,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+277,3,Unidade da Federação,2,%,0.09,51,Mato Grosso,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+278,3,Unidade da Federação,2,%,7.80,51,Mato Grosso,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+279,3,Unidade da Federação,2,%,8.16,51,Mato Grosso,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+280,3,Unidade da Federação,38,Reais,1972.32,52,Goiás,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+281,3,Unidade da Federação,38,Reais,1070.71,52,Goiás,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+282,3,Unidade da Federação,38,Reais,901.61,52,Goiás,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+283,3,Unidade da Federação,30,Número-índice,1040.94,52,Goiás,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+284,3,Unidade da Federação,30,Número-índice,827.66,52,Goiás,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+285,3,Unidade da Federação,30,Número-índice,1637.55,52,Goiás,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+286,3,Unidade da Federação,2,%,0.32,52,Goiás,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+287,3,Unidade da Federação,2,%,5.27,52,Goiás,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+288,3,Unidade da Federação,2,%,5.65,52,Goiás,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+289,3,Unidade da Federação,38,Reais,2045.37,53,Distrito Federal,9327,"Custo médio m² - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+290,3,Unidade da Federação,38,Reais,1144.31,53,Distrito Federal,9328,"Custo médio m² - componente material - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+291,3,Unidade da Federação,38,Reais,901.06,53,Distrito Federal,9329,"Custo médio m² - componente mão-de-obra - moeda corrente, sem desoneração da folha de pagamento",202511,novembro 2025
+292,3,Unidade da Federação,30,Número-índice,903.58,53,Distrito Federal,9330,"Custo médio m² - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+293,3,Unidade da Federação,30,Número-índice,759.12,53,Distrito Federal,9331,"Custo médio m² - componente material - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+294,3,Unidade da Federação,30,Número-índice,1265.35,53,Distrito Federal,9332,"Custo médio m² - componente mão-de-obra - número-índice, sem desoneração da folha de pagamento",202511,novembro 2025
+295,3,Unidade da Federação,2,%,0.05,53,Distrito Federal,9333,"Custo médio m² - variação percentual no mês, sem desoneração da folha de pagamento",202511,novembro 2025
+296,3,Unidade da Federação,2,%,5.41,53,Distrito Federal,9334,"Custo médio m² - variação percentual no ano, sem desoneração da folha de pagamento",202511,novembro 2025
+297,3,Unidade da Federação,2,%,5.59,53,Distrito Federal,9335,"Custo médio m² - variação percentual em doze meses, sem desoneração da folha de pagamento",202511,novembro 2025
+298,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês
+299,Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,"Brasil, Grande Região e Unidade da Federação (Código)","Brasil, Grande Região e Unidade da Federação",Variável (Código),Variável,Mês (Código),Mês
