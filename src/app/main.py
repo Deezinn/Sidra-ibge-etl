@@ -1,49 +1,17 @@
 from pipeline import Extract
+from infra.services.extract import AsyncExtractor, LinkGenerator
 
 from domain.constants.links import APIS
-
-import pandas as pd
+import asyncio
 
 class Main:
-    def __init__(self, extract: Extract):
-        self.__extract: Extract = extract
-        
-        self.__dispatcher: dict = {
-            'quarterly': self.__extract.run_quarterly,
-            'monthly': self.__extract.run_monthly,
-            'one-month': self.__extract.run_one_monthly,
-            'three-month': self.__extract.run_three_monthly,
-            'semester': self.__extract.run_semester,
-        }
+    def __init__(self, extractor: Extract):
+        self.__extract = extractor
     
-    def run(self, apis: dict):
-        
-        if not apis and not isinstance(apis,dict):
-            raise ValueError(f'')
-            
-        results:list = []
-        
-        for serie, meta in apis.items():
-            
-            if not meta['url'] :
-                raise ValueError(f'{serie} url empty.')
-            elif not meta['period']:
-                raise ValueError(f'{serie} period empty.')
-        
-            period = meta['period']
-            url = meta['url']
-            
-            data:dict = self.__dispatcher[period](url, serie)
-            print(f'Série {serie} inicializada a etl')
-            results.append({serie: data})
-        
-        # temp
-        for result in results:
-            key = next(iter(result.keys()))
-            dataframe = pd.DataFrame(result[key])
-            dataframe.to_csv(f'../csv/{key}.csv')
-            
+    async def run(self):
+       await extractor.run()
             
 if __name__ == '__main__':
-    m = Main(Extract())
-    m.run(apis=APIS)
+    extractor = Extract(linkGenerator=LinkGenerator(), apis=APIS, asyncExtractor=AsyncExtractor())
+    m = Main(extractor)
+    asyncio.run(m.run())
