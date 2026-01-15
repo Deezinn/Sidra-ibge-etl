@@ -8,6 +8,7 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiohttp[speedups]>=3.13.3",
     "pandas>=2.3.3",
     "pydantic>=2.12.5",
     "requests>=2.32.5",
