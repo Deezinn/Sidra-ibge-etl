@@ -57,8 +57,7 @@ APIS = {
         "url": "https://apisidra.ibge.gov.br/values/t/7878/n1/all/n2/all/n3/all/v/all/p/first%201/c48/all",
         "period": "monthly",
     },
-
-    #estoque
+    # estoque
     "estoque_254": {
         "url": "https://apisidra.ibge.gov.br/values/t/254/n1/all/n2/all/v/all/p/first%201/c162/all/c161/all/c163/all/d/v1000150%202,v1000151%202",
         "period": "semester",
@@ -91,7 +90,6 @@ APIS = {
         "url": "https://apisidra.ibge.gov.br/values/t/5470/n1/all/n2/all/n3/all/v/all/p/first%201/c11278/all/d/v1002171%202,v1002172%202",
         "period": "semester",
     },
-    
     # ipca
     "ipca_118": {
         "url": "https://apisidra.ibge.gov.br/values/t/118/n1/all/v/all/p/first%201/d/v306%202",
@@ -113,8 +111,7 @@ APIS = {
         "url": "https://apisidra.ibge.gov.br/values/t/7061/n1/all/n71/all/n7/all/n6/all/v/all/p/first%201/c315/all/d/v306%202,v307%202,v309%204",
         "period": "monthly",
     },
-
-    #inpc
+    # inpc
     "inpc_1736": {
         "url": "https://apisidra.ibge.gov.br/values/t/1736/n1/all/v/all/p/first%201/d/v44%202,v68%202,v2289%2013,v2290%202,v2291%202,v2292%202",
         "period": "monthly",
@@ -123,7 +120,6 @@ APIS = {
         "url": "https://apisidra.ibge.gov.br/values/t/7063/n1/all/n71/all/n7/all/n6/all/v/all/p/first%201/c315/all/d/v44%202,v45%204,v68%202,v2292%202",
         "period": "monthly",
     },
-    
     # IPCA 15
     "ipca_quinze_3065": {
         "url": "https://apisidra.ibge.gov.br/values/t/3065/n1/all/v/all/p/first%201/d/v355%202,v356%202,v1117%2013,v1118%202,v1119%202,v1120%202",

@@ -1,4 +1,7 @@
 class LinkValidator:
+    """
+    
+    """
     def _validate_inputs(self, link: str, serie: str) -> None:
         """_summary_
 

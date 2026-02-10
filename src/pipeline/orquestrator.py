@@ -4,6 +4,6 @@ class Orquestrator:
         self.__extract = extract
     
     async def teste(self):
-        extract = await self.__extract.run()
-
+        await self.__extract.run()
+        
         

@@ -2,11 +2,11 @@ from datetime import datetime
 
 
 class LinkGenerator:
+    """
+    
+    """
     PLACEHOLDER = 'first%201'
     
-    def __int__(self, LinkValidator):
-        self._link_validator = LinkValidator
-
     
     def _quarterly(self, link: str, serie: str) -> list:
         """_summary_
