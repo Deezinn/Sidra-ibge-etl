@@ -8,7 +8,7 @@ class LinkGenerator:
         self._link_validator = LinkValidator
 
     
-    def quarterly(self, link: str, serie: str) -> list:
+    def _quarterly(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -51,7 +51,7 @@ class LinkGenerator:
             quarter_init += 1
         return data
 
-    def monthly(self, link: str, serie: str) -> list:
+    def _monthly(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -94,7 +94,7 @@ class LinkGenerator:
             month_init += 1
         return data
 
-    def semester(self, link: str, serie: str) -> list:
+    def _semester(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -137,7 +137,7 @@ class LinkGenerator:
 
         return data
 
-    def one_monthly(self, link, serie: str) -> list:
+    def _one_monthly(self, link, serie: str) -> list:
         """_summary_
 
         Args:
@@ -152,7 +152,7 @@ class LinkGenerator:
         data.append(link)
         return data
 
-    def three_monthly(self, link, serie) -> list:
+    def _three_monthly(self, link, serie) -> list:
         """_summary_
 
         Args:

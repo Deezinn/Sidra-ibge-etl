@@ -8,12 +8,14 @@ from domain.constants.links import APIS
 
 from pipeline import Orquestrator
 
+import asyncio
+
 if __name__ == "__main__":
-    extract = Extract(
+    extract: Extract = Extract(
         apis=APIS,
         async_extractor=AsyncExtractor(),
         link_generator=LinkGenerator(),
         link_validator=LinkValidator(),
     )
     orq = Orquestrator(extract=extract)
-    orq.teste()
+    asyncio.run(orq.teste())

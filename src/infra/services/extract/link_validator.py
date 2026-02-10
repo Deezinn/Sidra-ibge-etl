@@ -36,7 +36,6 @@ class LinkValidator:
         Raises:
             ValueError: _description_
         """
-        
         link_splitted:list = link.split('/')
         serie_splitted:list = serie.split('_')
 
