@@ -1,17 +1,19 @@
-from pipeline import Extract
-from infra.services.extract import AsyncExtractor, LinkGenerator
+from infra.http import AsyncExtractor
+from infra.services.extract import LinkGenerator
+from infra.services.extract import LinkValidator
+
+from pipeline.extract import Extract
 
 from domain.constants.links import APIS
-import asyncio
 
-class Main:
-    def __init__(self, extractor: Extract):
-        self.__extract = extractor
-    
-    async def run(self):
-       await extractor.run()
-            
-if __name__ == '__main__':
-    extractor = Extract(linkGenerator=LinkGenerator(), apis=APIS, asyncExtractor=AsyncExtractor())
-    m = Main(extractor)
-    asyncio.run(m.run())
+from pipeline import Orquestrator
+
+if __name__ == "__main__":
+    extract = Extract(
+        apis=APIS,
+        async_extractor=AsyncExtractor(),
+        link_generator=LinkGenerator(),
+        link_validator=LinkValidator(),
+    )
+    orq = Orquestrator(extract=extract)
+    orq.teste()
