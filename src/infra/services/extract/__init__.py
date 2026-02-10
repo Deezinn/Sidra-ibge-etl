@@ -1,2 +1,2 @@
 from .link_generator import LinkGenerator
-from .async_extractor import AsyncExtractor
+from .link_validator import LinkValidator

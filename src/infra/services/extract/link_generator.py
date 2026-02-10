@@ -1,11 +1,14 @@
 from datetime import datetime
 
 
-class LinkGenerator():
+class LinkGenerator:
     PLACEHOLDER = 'first%201'
+    
+    def __int__(self, LinkValidator):
+        self._link_validator = LinkValidator
 
-    @staticmethod
-    def _validate_inputs(link: str, serie: str) -> None:
+    
+    def quarterly(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -14,48 +17,11 @@ class LinkGenerator():
 
         Raises:
             ValueError: _description_
-            ValueError: _description_
-            TypeError: _description_
-            TypeError: _description_
-        """
 
-        if not link:
-            raise ValueError('')
+        Returns:
+            list: _description_
+        """
         
-        if not serie :
-            raise ValueError('')
-        
-        if not isinstance(link, str):
-            raise TypeError('')
-
-        if not isinstance(serie, str):
-            raise TypeError('')
-
-
-    @staticmethod
-    def _link_is_valid(link: str, serie: str) -> None:
-        """
-        Verifica se o link está batendo com a série
-        :param link: recebe o link da constante
-        :type link: str
-        :param serie: recebe a serie da constante
-        :type serie: str
-        """
-
-        link_splitted:list = link.split('/')
-        serie_splitted:list = serie.split('_')
-
-        for value in serie_splitted:
-            if value.isdigit():
-                if value in link_splitted:
-                    continue
-                else:
-                    raise ValueError(f'{value} invalido da {serie} serie')
-
-    def quarterly(self, link: str, serie: str) -> list:
-        self._validate_inputs(link=link, serie=serie)
-        self._link_is_valid(link=link, serie=serie)
-
         data:list = []
 
         year_init:int = 2025
@@ -86,9 +52,19 @@ class LinkGenerator():
         return data
 
     def monthly(self, link: str, serie: str) -> list:
-        self._validate_inputs(link=link, serie=serie)
-        self._link_is_valid(link=link, serie=serie)
+        """_summary_
 
+        Args:
+            link (str): _description_
+            serie (str): _description_
+
+        Raises:
+            ValueError: _description_
+
+        Returns:
+            list: _description_
+        """
+        
         data:list = []
 
         year_init:int = 2025
@@ -119,9 +95,19 @@ class LinkGenerator():
         return data
 
     def semester(self, link: str, serie: str) -> list:
-        self._validate_inputs(link=link, serie=serie)
-        self._link_is_valid(link=link, serie=serie)
+        """_summary_
 
+        Args:
+            link (str): _description_
+            serie (str): _description_
+
+        Raises:
+            ValueError: _description_
+
+        Returns:
+            list: _description_
+        """
+        
         data:list = []
 
         year_init:int = 2025
@@ -152,17 +138,31 @@ class LinkGenerator():
         return data
 
     def one_monthly(self, link, serie: str) -> list:
-        self._validate_inputs(link=link, serie=serie)
-        self._link_is_valid(link=link, serie=serie)
+        """_summary_
 
+        Args:
+            link (_type_): _description_
+            serie (str): _description_
+
+        Returns:
+            list: _description_
+        """
+        
         data:list = []
         data.append(link)
         return data
 
     def three_monthly(self, link, serie) -> list:
-        self._validate_inputs(link=link, serie=serie)
-        self._link_is_valid(link=link, serie=serie)
+        """_summary_
 
+        Args:
+            link (_type_): _description_
+            serie (_type_): _description_
+
+        Returns:
+            list: _description_
+        """
+        
         data:list = []
 
         link_splitted:list = link.split('/')
