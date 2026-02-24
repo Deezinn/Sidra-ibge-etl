@@ -8,7 +8,7 @@ class LinkGenerator:
     PLACEHOLDER = 'first%201'
     
     
-    def _quarterly(self, link: str, serie: str) -> list:
+    def quarterly(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -51,7 +51,7 @@ class LinkGenerator:
             quarter_init += 1
         return data
 
-    def _monthly(self, link: str, serie: str) -> list:
+    def monthly(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -94,7 +94,7 @@ class LinkGenerator:
             month_init += 1
         return data
 
-    def _semester(self, link: str, serie: str) -> list:
+    def semester(self, link: str, serie: str) -> list:
         """_summary_
 
         Args:
@@ -137,7 +137,7 @@ class LinkGenerator:
 
         return data
 
-    def _one_monthly(self, link, serie: str) -> list:
+    def one_monthly(self, link, serie: str) -> list:
         """_summary_
 
         Args:
@@ -152,7 +152,7 @@ class LinkGenerator:
         data.append(link)
         return data
 
-    def _three_monthly(self, link, serie) -> list:
+    def three_monthly(self, link, serie) -> list:
         """_summary_
 
         Args:

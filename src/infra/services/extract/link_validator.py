@@ -2,7 +2,7 @@ class LinkValidator:
     """
     
     """
-    def _validate_inputs(self, link: str, serie: str) -> None:
+    def validate_inputs(self, link: str, serie: str) -> None:
         """_summary_
 
         Args:
@@ -20,7 +20,7 @@ class LinkValidator:
         if not link:
             raise ValueError('')
         
-        if not serie :
+        if not serie:
             raise ValueError('')
         
         if not isinstance(link, str):
@@ -29,7 +29,7 @@ class LinkValidator:
         if not isinstance(serie, str):
             raise TypeError('')
 
-    def _link_is_valid(self, link: str, serie: str) -> None:
+    def link_is_valid(self, link: str, serie: str) -> None:
         """_summary_
 
         Args:

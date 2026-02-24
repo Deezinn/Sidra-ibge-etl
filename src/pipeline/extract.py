@@ -9,11 +9,11 @@ class Extract:
     """
     def __init__(self, link_generator, apis, async_extractor, link_validator) -> None:
         self.__dispatcher = {
-              'quarterly': link_generator._quarterly,
-              'monthly': link_generator._monthly,
-              'one-month': link_generator._one_monthly,
-              'three-month': link_generator._three_monthly,
-              'semester': link_generator._semester,
+              'quarterly': link_generator.quarterly,
+              'monthly': link_generator.monthly,
+              'one-month': link_generator.one_monthly,
+              'three-month': link_generator.three_monthly,
+              'semester': link_generator.semester,
         }
         self.__apis = apis
         self.__async_extractor = async_extractor

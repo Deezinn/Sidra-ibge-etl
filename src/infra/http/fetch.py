@@ -9,5 +9,6 @@ class AsyncExtractor:
     async def fetch(self, session: aiohttp.ClientSession, url: str, serie: str) -> dict:
         async with session.get(url=url, timeout=self.TIMEOUT) as response: # pyright: ignore[reportArgumentType]
             data: dict = await response.json()
+            print(f'status: {response.status} tabela: {serie}')
             response.raise_for_status()
             return {"serie": serie, "data": data}
